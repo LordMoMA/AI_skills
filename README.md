@@ -1,9 +1,7 @@
 # AI_skills
 
 Claude Code slash-command skills for AI-assisted engineering.
-
-<img width="1536" height="1024" alt="ChatGPT Image May 22, 2026, 11_13_31 AM" src="https://github.com/user-attachments/assets/a30bd830-ec1b-4900-a670-ba90b1486e85" />
-
+<img width="1536" height="1024" alt="ChatGPT Image May 22, 2026, 11_13_31 AM" src="https://github.com/user-attachments/assets/d78f7156-c433-46ab-b279-99087bc28449" />
 
 ## Skills
 
@@ -24,5 +22,4 @@ Then invoke with `/nasa-code` inside any Claude Code session.
 
 ## Read the article
 
-[![NASA Code](https://github.com/user-attachments/assets/11fc8875-c365-4e4c-b92e-455a30357ef3)](https://leestack.dev/writing/nasa-rules-for-code-that-cant-fail)
-
+[![NASA Code](https://github.com/user-attachments/assets/d2ebc9c1-18cb-4d83-883c-1413f370283d)](https://leestack.dev/writing/nasa-rules-for-code-that-cant-fail)
