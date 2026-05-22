@@ -2,6 +2,9 @@
 
 Claude Code slash-command skills for AI-assisted engineering.
 
+<img width="1536" height="1024" alt="ChatGPT Image May 22, 2026, 11_13_31 AM" src="https://github.com/user-attachments/assets/a30bd830-ec1b-4900-a670-ba90b1486e85" />
+
+
 ## Skills
 
 ### `/nasa-code`
