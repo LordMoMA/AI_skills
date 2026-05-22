@@ -1,0 +1,7 @@
+interface:
+  display_name: "NASA Code"
+  short_description: "Audit code against Power of Ten safety rules"
+  default_prompt: "Use $nasa-code to audit the current branch for NASA Power-of-Ten rule violations."
+
+policy:
+  allow_implicit_invocation: true
