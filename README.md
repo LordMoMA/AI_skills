@@ -24,5 +24,5 @@ Then invoke with `/nasa-code` inside any Claude Code session.
 
 ## Read the article
 
-[![NASA Code](https://github.com/user-attachments/assets/11fc8875-c365-4e4c-b92e-455a30357ef3)](https://medium.com/@lordmoma/the-rules-nasa-uses-to-write-code-that-cant-fail-your-ai-tools-break-all-of-them-8d0377998efb?postPublishedType=repub)
+[![NASA Code](https://github.com/user-attachments/assets/11fc8875-c365-4e4c-b92e-455a30357ef3)](https://leestack.dev/writing/nasa-rules-for-code-that-cant-fail)
 
